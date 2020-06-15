@@ -1,4 +1,4 @@
-# Kings of Chess (Team15 Spring 2020)
+# Kings of Chess
 
 Kings of Chess is a chess application that allows you to play against another human or against a computer opponent.
 
@@ -70,6 +70,6 @@ Delete all the files
 ```
 # Copyright
 Copyright
-© 2020 Aviraj Mukherjee, Martin Alexander Gomez, Henry Thy Bendiksen, Sarthak Sharma, Rebecca Ko
+© 2020 Aviraj Mukherjee
 
 This software is free and is licensed under GNU General Public License, version 3.0. You are welcome to redistribute it under certain conditions. More information can be found on <https://www.gnu.org/licenses/gpl-3.0.html>.
